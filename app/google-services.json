@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719226373978",
+    "firebase_url": "https://miamigos-52be5.firebaseio.com",
+    "project_id": "miamigos-52be5",
+    "storage_bucket": "miamigos-52be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719226373978:android:4c7f6a4ec5599721",
+        "android_client_info": {
+          "package_name": "com.a3alchemists.mi_amigos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719226373978-561euonpo1fjs1od3dj9ul3fg5p4f382.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a3alchemists.mi_amigos",
+            "certificate_hash": "7091b6a0563c929e349c43a18996fb0f500cf143"
+          }
+        },
+        {
+          "client_id": "719226373978-mrr39tvkbnsttdf52j44lvpj5pbt0uru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UcLfzgMUcch35N1UTIE43hCjE_wgEqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719226373978-mrr39tvkbnsttdf52j44lvpj5pbt0uru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
